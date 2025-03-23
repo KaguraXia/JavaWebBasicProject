@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JavaWeb-01project-javaweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-01project-javaweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-02project-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-02project-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-03project-JSP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-03project-JSP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-04project-EL_JSTL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-04project-EL_JSTL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-05project-cookie_Session/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-05project-cookie_Session/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-06project-Filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-06project-Filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-07project-Listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-07project-Listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-firstproject-javaweb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-firstproject-javaweb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-firstproject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-firstproject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-forthproject-EL_JSTL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-forthproject-EL_JSTL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-secondproject-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-secondproject-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-secondproject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-secondproject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-thirdproject-JSP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb-thirdproject-JSP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
