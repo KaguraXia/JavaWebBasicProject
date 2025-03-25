@@ -15,6 +15,8 @@
         <module>JavaWeb-05project-cookie_Session</module>
         <module>JavaWeb-06project-Filter</module>
         <module>JavaWeb-07project-Listener</module>
+        <module>JavaWeb-08project-file_up_down_load</module>
+        <module>JavaWeb-09project-JDBC</module>
     </modules>
 
     <properties>
