@@ -28,8 +28,8 @@ public class Login extends HttpServlet {
             String RegisterPassword = (String) session.getAttribute("RegisterPassword");
 
             if(username_login.equals(RegisterUsername) && password_login.equals(RegisterPassword)){
-                // 登录成功，重定向到"MyStudent"页面
-                resp.sendRedirect(req.getContextPath()+ "/MyStudent");
+                // 登录成功，重定向到"ViewBillsServlet"页面
+                resp.sendRedirect(req.getContextPath()+ "/viewBills");
                 return;
             }
             else {

@@ -17,6 +17,8 @@
         <module>JavaWeb-07project-Listener</module>
         <module>JavaWeb-08project-file_up_down_load</module>
         <module>JavaWeb-09project-JDBC</module>
+        <module>JavaWeb-10project-Ajax</module>
+        <module>JavaWeb-Project-personal_accounting</module>
     </modules>
 
     <properties>
